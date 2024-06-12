@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@mysten/sui": "^1.0.5"
+  },
+  "type": "module",
+  "dependencies": {
+    "@scallop-io/sui-kit": "^0.45.0"
+  }
+}
